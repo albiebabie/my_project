@@ -1,21 +1,16 @@
-html {
-    background: red;
-}
-
 #container {
     width: 100%;
     outline: 1px solid green;
 }
 
-.box {
+.box1 {
     width: 200px;
     height: 200px;
+    background: red;
+}
+.box2 {
+    width: 300px;
+    height: 200px;
+    background: green;
 }
 
-.brown {
-    background: brown;
-}
-
-.yellow {
-    background: yellow;
-}
